@@ -5,8 +5,9 @@
 </div>
 
 <div id="contact" align="left">
-	<p>How to contact me: Just send email to <a href="https://t.me/VictoriaBorovskayaa" target="_blank">telegram</a> or to gmail<a href="" target="_blank">vickirienko@gmail.com</a></p>
+	<p>How to contact me: Just send email to <a href="https://t.me/VictoriaBorovskayaa" target="_blank">telegram</a> or to gmail <a href="" target="_blank">vickirienko@gmail.com</a></p>
 </div>
+
 
 
 
