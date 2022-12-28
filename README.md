@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
 	<h1>Hi there 👋</h1>
-	<h3>I'm a Frontend Developer from Russia 🇷🇺</h3>
+	<h3>I'm a Frontend Developer🇺</h3>
 </div>
 
 <div id="contact" align="left">
