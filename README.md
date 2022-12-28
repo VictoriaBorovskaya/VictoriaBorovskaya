@@ -1,17 +1,26 @@
 
 <div id="header" align="center">
 	<h1>Hi there 👋</h1>
-	<h3>I'm Frontend Developer</h3>
+	<h3>I'm a Frontend Developer</h3>
 </div>
 
-<div id="socials" align="center">
+<div id="contact" align="left">
+	<p>How to contact me: Just send email to <span color="blue">vickirienko@gmail.com</span></p>
+
+</div>
+
+
+
+
+
+<!-- <div id="socials" align="center">
 	<a href="linkedin-url">
 		<img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 	</a>
 	<a href="https://t.me/VictoriaBorovskayaa">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
-</div>
+</div> -->
 
 
 <!--
