@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there👋
+
+** I'm Frontend Developer **
+
+
 
 <!--
 **VictoriaBorovskaya/VictoriaBorovskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
