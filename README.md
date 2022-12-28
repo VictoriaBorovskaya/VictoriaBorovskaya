@@ -1,12 +1,11 @@
 
 <div id="header" align="center">
 	<h1>Hi there 👋</h1>
-	<h3>I'm a Frontend Developer</h3>
+	<h3>I'm a Frontend Developer from Russia 🇷🇺</h3>
 </div>
 
 <div id="contact" align="left">
-	<p>How to contact me: Just send email to <span text-color="blue">vickirienko@gmail.com</span></p>
-
+	<p>How to contact me: Just send email to <a href="https://t.me/VictoriaBorovskayaa" target="_blank">telegram</a></p>
 </div>
 
 
