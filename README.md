@@ -5,7 +5,7 @@
 </div>
 
 <div id="contact" align="left">
-	<p>How to contact me: Just send email to [vickirienko@gmail.com]</p>
+	<p>How to contact me: Just send email to <span text-color="blue">vickirienko@gmail.com</span></p>
 
 </div>
 
